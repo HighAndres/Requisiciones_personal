@@ -1,0 +1,434 @@
+[12-Jan-2021 12:15:48 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(416): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[12-Jan-2021 12:23:09 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(416): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[12-Jan-2021 12:24:54 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(416): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[12-Jan-2021 12:25:05 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(416): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[14-Jan-2021 00:22:02 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(416): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 47
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 50
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 66
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 66
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 73
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 80
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 87
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 105
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 110
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 115
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 120
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 125
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 130
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 135
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 140
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 157
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 162
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 180
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 186
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 192
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 198
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 204
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 210
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 216
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 222
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 228
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 234
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 240
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 257
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 263
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 269
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 282
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 285
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 302
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 308
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 314
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 320
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 326
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 345
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 351
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 357
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 363
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 369
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 388
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 394
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 400
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 406
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 412
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Notice:  Undefined variable: id in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 415
+[19-Jan-2021 19:23:08 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(416): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 55
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 58
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 74
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 74
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 81
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 88
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 95
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 113
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 118
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 123
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 128
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 133
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 138
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 143
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 148
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 165
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 170
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 188
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 194
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 200
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 206
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 212
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 218
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 224
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 230
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 236
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 242
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 248
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 265
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 271
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 277
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 290
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 293
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 310
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 316
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 322
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 328
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 334
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 353
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 359
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 365
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 371
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 377
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 396
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 402
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 408
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 414
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 420
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Notice:  Undefined variable: id in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 423
+[19-Jan-2021 19:24:25 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 55
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 58
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 74
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 74
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 81
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 88
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 95
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 113
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 118
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 123
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 128
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 133
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 138
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 143
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 148
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 165
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 170
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 188
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 194
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 200
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 206
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 212
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 218
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 224
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 230
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 236
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 242
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 248
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 265
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 271
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 277
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 290
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 293
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 310
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 316
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 322
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 328
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 334
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 353
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 359
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 365
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 371
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 377
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 396
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 402
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 408
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 414
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: areq in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 420
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Notice:  Undefined variable: id in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php on line 423
+[19-Jan-2021 19:24:45 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:14:39 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:15:43 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:16:11 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:16:20 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:18:25 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:18:29 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:18:32 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:18:33 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:24:27 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:25:32 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:25:48 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:25:56 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:26:46 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 10:33:52 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 11:21:56 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 11:22:53 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 11:23:26 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 11:23:48 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 11:24:43 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 17:52:29 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 17:52:35 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[27-Jan-2021 17:52:43 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[02-Feb-2021 12:31:16 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[02-Feb-2021 12:31:30 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[02-Feb-2021 12:32:28 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[02-Feb-2021 12:32:41 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[03-Feb-2021 10:14:55 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[03-Feb-2021 10:15:05 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[03-Feb-2021 10:15:38 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[03-Feb-2021 10:15:46 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[03-Feb-2021 10:16:16 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[03-Feb-2021 10:42:10 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
+[03-Feb-2021 12:36:38 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:1008)' in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/pdf_requisicion.php(424): FPDF->Output()
+#3 {main}
+  thrown in /home/g7lq4y9o2rou/public_html/requisiciones.grupowalworth.com/pdf/fpdf/fpdf.php on line 271
